@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tlJviVtXGbznTPDz6xlrALlAW/CjsaBx8cGetF2tvcc=",
+  "Source": "NeonTetra.Api",
+  "BasePath": "_content/NeonTetra.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

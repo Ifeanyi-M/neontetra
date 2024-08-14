@@ -1,0 +1,15 @@
+C:\Users\DECAGON\source\repos\NeonTetra.Api\NeonTetra.Domain\bin\Debug\net8.0\NeonTetra.Domain.deps.json
+C:\Users\DECAGON\source\repos\NeonTetra.Api\NeonTetra.Domain\bin\Debug\net8.0\NeonTetra.Domain.dll
+C:\Users\DECAGON\source\repos\NeonTetra.Api\NeonTetra.Domain\bin\Debug\net8.0\NeonTetra.Domain.pdb
+C:\Users\DECAGON\source\repos\NeonTetra.Api\NeonTetra.Domain\obj\Debug\net8.0\NeonTetra.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECAGON\source\repos\NeonTetra.Api\NeonTetra.Domain\obj\Debug\net8.0\NeonTetra.Domain.AssemblyInfoInputs.cache
+C:\Users\DECAGON\source\repos\NeonTetra.Api\NeonTetra.Domain\obj\Debug\net8.0\NeonTetra.Domain.AssemblyInfo.cs
+C:\Users\DECAGON\source\repos\NeonTetra.Api\NeonTetra.Domain\obj\Debug\net8.0\NeonTetra.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DECAGON\source\repos\NeonTetra.Api\NeonTetra.Domain\obj\Debug\net8.0\NeonTetra.Domain.sourcelink.json
+C:\Users\DECAGON\source\repos\NeonTetra.Api\NeonTetra.Domain\obj\Debug\net8.0\NeonTetra.Domain.dll
+C:\Users\DECAGON\source\repos\NeonTetra.Api\NeonTetra.Domain\obj\Debug\net8.0\refint\NeonTetra.Domain.dll
+C:\Users\DECAGON\source\repos\NeonTetra.Api\NeonTetra.Domain\obj\Debug\net8.0\NeonTetra.Domain.pdb
+C:\Users\DECAGON\source\repos\NeonTetra.Api\NeonTetra.Domain\obj\Debug\net8.0\ref\NeonTetra.Domain.dll
+C:\Users\DECAGON\source\repos\NeonTetra.Api\NeonTetra.Domain\bin\Debug\net8.0\NeonTetra.Domain.runtimeconfig.json
+C:\Users\DECAGON\source\repos\NeonTetra.Api\NeonTetra.Domain\obj\Debug\net8.0\NeonTetra.Domain.csproj.AssemblyReference.cache
+C:\Users\DECAGON\source\repos\NeonTetra.Api\NeonTetra.Domain\obj\Debug\net8.0\NeonTetra.Domain.genruntimeconfig.cache
